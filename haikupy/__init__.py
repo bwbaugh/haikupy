@@ -1,3 +1,4 @@
+# Copyright (C) 2013 Brian Wesley Baugh
 """An English language haiku generator that uses the 5-7-5 syllable pattern."""
 import nltk
 

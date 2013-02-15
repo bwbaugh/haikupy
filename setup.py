@@ -1,3 +1,4 @@
+# Copyright (C) 2013 Brian Wesley Baugh
 from setuptools import setup, find_packages
 
 
