@@ -10,6 +10,9 @@ setup(
     version=version,
     packages=find_packages(),
 
+    install_requires=open('requirements.txt').read(),
+    zip_safe=False,
+
     author="B. W. Baugh",
     author_email="brian@brianbaugh.com",
     url="http://www.github.com/bwbaugh/" + program_name,
