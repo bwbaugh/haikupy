@@ -3,6 +3,8 @@ HaikuPy
 
 An English language haiku generator that uses the 5-7-5 syllable pattern.
 
+[![Build Status](https://travis-ci.org/bwbaugh/haikupy.png?branch=master)](https://travis-ci.org/bwbaugh/haikupy)
+
 Type of Haiku
 -------------
 
