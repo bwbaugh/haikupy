@@ -3,7 +3,9 @@
 import nltk
 
 
-def download_nltk_requirements(data_list):
-    if not all(nltk.download(data.strip()) for data in data_list):
-        return False
-    return True
+NLTK_DEPENDENCIES = [
+                     'cmudict',
+                     'maxent_treebank_pos_tagger',
+                     'wordnet',
+                    ]
+nltk.download(NLTK_DEPENDENCIES)
