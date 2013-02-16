@@ -1,2 +1,3 @@
+cmudict
 maxent_treebank_pos_tagger
 wordnet
